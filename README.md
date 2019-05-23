@@ -12,6 +12,8 @@ Spin 1 is the target; the two driving spins can be chosen among the remaining 5.
 To run the PID of the mutual information, execute PID_MI; for the PID of the transfer entropy, execute PID_TE (drivers can be
 changed by modifying the scripts).
 
-References
-Quantifying Unique Information https://www.mdpi.com/1099-4300/16/4/2161
-Synergy as a warning sign of transitions: the case of the two-dimensional Ising model, Phys. Rev. E 99, 040101(R) – Published 19 April 2019 - https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.040101. Also available on https://arxiv.org/abs/1901.05405
+*References*
+
+* Quantifying Unique Information https://www.mdpi.com/1099-4300/16/4/2161
+
+* Synergy as a warning sign of transitions: the case of the two-dimensional Ising model, Phys. Rev. E 99, 040101(R) – Published 19 April 2019 - https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.040101. Also available on https://arxiv.org/abs/1901.05405
