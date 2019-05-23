@@ -5,7 +5,7 @@ spin and two neighbors is evaluated according to the approach described in Berts
 
 As an example, the file G6spin_256_0.mat contains the probability distribution of six spins, arranged as in the figure below, in the 2D Ising model on a 256x256 lattice with Glauber dynamics, for several values of the coupling beta.
 
-![figure 1 of the paper](http://users.ugent.be/~dmarinaz/Ising_spins.png
+![figure 1 of the paper](http://users.ugent.be/~dmarinaz/Ising_spins.png)
 
 Spin 1 is the target; the two driving spins can be chosen among the remaining 5. In the output figure, the synergy S, the redundancy R, and unique information terms U_1 and U_2 are depicted versus beta.
 
